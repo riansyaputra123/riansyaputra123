@@ -4,7 +4,7 @@
 - 🔭 I’m currently studied at Mulawarman University majoring in Informatics
 - 🌱 I’m currently learning about Android Development
 - 💬 Feel free to ask me about Android/Web development or Java
-- 📫 How to reach me: riansyaputra220902@gmail.com
+- 📫 How to reach me: www.linkedin.com/in/riansyaputra
 - ⚡ Fun fact: I'm Freelance!
 
 <p align="left">
